@@ -46,6 +46,7 @@
 - Swift concurrency: Behind the scenes
 - Swift concurrency: Update a sample app
 - Protect mutable state with Swift actors
+- [Discover concurrency in SwiftUI](https://github.com/kimkyunghun3/WWDC/commit/372344cb669ab7a817371f5da753d156305bc9bd)
 
 <br/>
 <br/>
@@ -59,8 +60,8 @@
 - [Lists in UICollectionView](https://github.com/kimkyunghun3/WWDC/blob/main/2020/List%20In%20UICollectionView.md)
 - [Modern cell configuration](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Modern_Cell_Configuration.md)
 - [Embrace Swift type inference](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Embrace_Swift_Type_Inference.md)
-- Unsafe Swift
-- Get your test results faster
+- [Unsafe Swift](https://github.com/kimkyunghun3/WWDC/commit/2ca588ffcee36eb35a3f28a76692a7e6c89923f0)
+- [Get your test results faster](https://github.com/kimkyunghun3/WWDC/commit/5e52bd70118f6b06dd71be9827db6df24b895650)
 
 <br/>
 <br/>
