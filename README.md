@@ -27,7 +27,7 @@
 - What's new in UIKit
 - What's new in Xcode
 - Debug Swift debugging with LLDB
-- Embrace Swift generics
+- [Embrace Swift generics](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Embrace_Swift_Generics.md)
 
 <br/>
 
@@ -38,8 +38,8 @@
 - What's new in SwiftUI
 - What's new in UIKit
 - What‘s new in Swift
-- Meet async/await in Swift
-- ARC in Swift: Basics and beyond
+- [Meet async/await in Swift](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet%20async:await%20in%20Swift.md)
+- [ARC in Swift: Basics and beyond](https://github.com/kimkyunghun3/WWDC/blob/main/2021/ARC_in_Swift.md)
 - Use async/await with URLSession
 - Detect and diagnose memory issues
 - Meet AsyncSequence
@@ -47,6 +47,7 @@
 - Swift concurrency: Update a sample app
 - Protect mutable state with Swift actors
 - [Discover concurrency in SwiftUI](https://github.com/kimkyunghun3/WWDC/commit/372344cb669ab7a817371f5da753d156305bc9bd)
+- [Demystify SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2021/DemystifySwiftUI.md)
 
 <br/>
 <br/>
