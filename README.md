@@ -40,9 +40,9 @@
 - What‘s new in Swift
 - [Meet async/await in Swift](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet%20async:await%20in%20Swift.md)
 - [ARC in Swift: Basics and beyond](https://github.com/kimkyunghun3/WWDC/blob/main/2021/ARC_in_Swift.md)
-- Use async/await with URLSession
+- [Use async/await with URLSession](https://github.com/kimkyunghun3/WWDC/blob/main/2021/%20Use%20async:await%20with%20URLSession.md)
 - Detect and diagnose memory issues
-- Meet AsyncSequence
+- [Meet AsyncSequence](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet_AsyncSequence.md)
 - Swift concurrency: Behind the scenes
 - Swift concurrency: Update a sample app
 - Protect mutable state with Swift actors
@@ -63,6 +63,7 @@
 - [Embrace Swift type inference](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Embrace_Swift_Type_Inference.md)
 - [Unsafe Swift](https://github.com/kimkyunghun3/WWDC/commit/2ca588ffcee36eb35a3f28a76692a7e6c89923f0)
 - [Get your test results faster](https://github.com/kimkyunghun3/WWDC/commit/5e52bd70118f6b06dd71be9827db6df24b895650)
+- [Stacks, Grids, and Outlines in SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Stacks%2C%20Grids%2C%20and%20Outlines%20in%20SwiftUI.md)
 
 <br/>
 <br/>
