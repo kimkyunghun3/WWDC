@@ -41,11 +41,11 @@
 - [Meet async/await in Swift](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet%20async:await%20in%20Swift.md)
 - [ARC in Swift: Basics and beyond](https://github.com/kimkyunghun3/WWDC/blob/main/2021/ARC_in_Swift.md)
 - [Use async/await with URLSession](https://github.com/kimkyunghun3/WWDC/blob/main/2021/%20Use%20async:await%20with%20URLSession.md)
-- Detect and diagnose memory issues
+- [Detect and diagnose memory issues](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Detect_and_diagnose_memory_issues.md)
 - [Meet AsyncSequence](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet_AsyncSequence.md)
 - Swift concurrency: Behind the scenes
 - Swift concurrency: Update a sample app
-- Protect mutable state with Swift actors
+- [Protect mutable state with Swift actors](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Protect%20mutable%20state%20with%20Swift%20actors.md)
 - [Discover concurrency in SwiftUI](https://github.com/kimkyunghun3/WWDC/commit/372344cb669ab7a817371f5da753d156305bc9bd)
 - [Demystify SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2021/DemystifySwiftUI.md)
 
@@ -73,7 +73,7 @@
 
 ------------
 - [LLDB: Beyond "po"](https://github.com/kimkyunghun3/WWDC/blob/main/2019/LLDB:_Beyond_%22po%22.md)
-- Introducing Combine
+- [Introducing Combine](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Introducing%20Combine.md)
 - [Advances in UI Data Sources](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Advances%20in%20UI%20Data%20Sources.md)
 - [Advances in Collection View Layout](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Advances_in_Collection_View_Layout.md)
 - Combine in Practice
