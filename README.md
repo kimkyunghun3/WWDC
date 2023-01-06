@@ -43,13 +43,12 @@
 - [Use async/await with URLSession](https://github.com/kimkyunghun3/WWDC/blob/main/2021/%20Use%20async:await%20with%20URLSession.md)
 - [Detect and diagnose memory issues](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Detect_and_diagnose_memory_issues.md)
 - [Meet AsyncSequence](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet_AsyncSequence.md)
-- Swift concurrency: Behind the scenes
+- [Swift Concurrency Behind the Scenes](https://github.com/kimkyunghun3/WWDC/commit/b8171a1d842c33bda78602512a7c578d36cde58d)
 - Swift concurrency: Update a sample app
 - [Protect mutable state with Swift actors](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Protect%20mutable%20state%20with%20Swift%20actors.md)
 - [Discover concurrency in SwiftUI](https://github.com/kimkyunghun3/WWDC/commit/372344cb669ab7a817371f5da753d156305bc9bd)
 - [Demystify SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2021/DemystifySwiftUI.md)
 - [Meet the UIKit button system](https://github.com/kimkyunghun3/WWDC/commit/1aa3db887290735e2f82bfa8a65644fae4b65a07)
-- [Swift Concurrency Behind the Scenes](https://github.com/kimkyunghun3/WWDC/commit/b8171a1d842c33bda78602512a7c578d36cde58d)
 
 <br/>
 <br/>
@@ -78,12 +77,12 @@
 - [Introducing Combine](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Introducing%20Combine.md)
 - [Advances in UI Data Sources](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Advances%20in%20UI%20Data%20Sources.md)
 - [Advances in Collection View Layout](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Advances_in_Collection_View_Layout.md)
-- Combine in Practice
+- [Combine in Practice](https://github.com/kimkyunghun3/WWDC/commit/c424a6943ff15ed5f0e2703cda0ecd3fd6eca8ca)
 - [SwiftUI Essentials](https://github.com/kimkyunghun3/WWDC/blob/main/2019/SwiftUI%20Essentials.md)
 - Architecting Your App for Multiple Windows
 - [Building Custom Views in SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Building%20Custim%20Views%20in%20SwiftUI.md)
 - [Data Flow Through SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Data%20Flow%20Through%20SwiftUI.md)
-- [Combine in Practice](https://github.com/kimkyunghun3/WWDC/commit/c424a6943ff15ed5f0e2703cda0ecd3fd6eca8ca)
+
 
 <br/>
 <br/>
