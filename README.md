@@ -45,11 +45,12 @@
 - [Detect and diagnose memory issues](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Detect_and_diagnose_memory_issues.md)
 - [Meet AsyncSequence](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet_AsyncSequence.md)
 - [Swift Concurrency Behind the Scenes](https://github.com/kimkyunghun3/WWDC/commit/b8171a1d842c33bda78602512a7c578d36cde58d)
-- Swift concurrency: Update a sample app
+- [Swift concurrency: Update a sample app](https://github.com/kimkyunghun3/WWDC/commit/43f05bf2d68c10ff04d51a24fbe9560c98ffe75b)
 - [Protect mutable state with Swift actors](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Protect%20mutable%20state%20with%20Swift%20actors.md)
 - [Discover concurrency in SwiftUI](https://github.com/kimkyunghun3/WWDC/commit/372344cb669ab7a817371f5da753d156305bc9bd)
 - [Demystify SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2021/DemystifySwiftUI.md)
 - [Meet the UIKit button system](https://github.com/kimkyunghun3/WWDC/commit/1aa3db887290735e2f82bfa8a65644fae4b65a07)
+- [Customize and resize sheets in UIkit](https://github.com/kimkyunghun3/WWDC/commit/6bf17dc811ef1c2e05f9bbf45b66886477bba233)
 
 <br/>
 <br/>
@@ -57,7 +58,7 @@
 # WWDC2020
 ![WWDC2020](https://user-images.githubusercontent.com/52434820/183303238-b448bc2f-61dd-4ce1-946c-6245d38792ca.png)
 ---------
-- [Meet WidgetKit]((https://github.com/kimkyunghun3/WWDC/blob/main/2020/Meet_WidgetKit.md))
+- [Meet WidgetKit](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Meet_WidgetKit.md)
 - [Advances in UICollectionView](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Advances_in_UICollectionView.md)
 - [Advances in diffable data sources](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Advances_in_diffable_data_sources.md)
 - [Lists in UICollectionView](https://github.com/kimkyunghun3/WWDC/blob/main/2020/List%20In%20UICollectionView.md)
@@ -66,6 +67,8 @@
 - [Unsafe Swift](https://github.com/kimkyunghun3/WWDC/commit/2ca588ffcee36eb35a3f28a76692a7e6c89923f0)
 - [Get your test results faster](https://github.com/kimkyunghun3/WWDC/commit/5e52bd70118f6b06dd71be9827db6df24b895650)
 - [Stacks, Grids, and Outlines in SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Stacks%2C%20Grids%2C%20and%20Outlines%20in%20SwiftUI.md)
+- [Eleminate animation hitches with XCTest](https://github.com/kimkyunghun3/WWDC/commit/409eeb22d4505a13677313934a58b8e950d6d36b)
+- [Why Is My App Getting Killed?](https://github.com/kimkyunghun3/WWDC/commit/2220098f23b71eec6a34f59eedf26532b54ea607)
 
 <br/>
 <br/>
