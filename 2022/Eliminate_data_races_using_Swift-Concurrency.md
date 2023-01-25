@@ -187,58 +187,64 @@ DispatchQueue.main.async {
 
 ```swift
 class ViewModel {
-    @Published var level: Data!
+    var name: String
     
-    init() {
-        Task {
-            await self.fetchLevel()
-        }
+    init(name: String) {
+        self.name = name
     }
     
-    func fetchLevel() async {
-        let (data, _) = try! await URLSession.shared.data(from: URL(string: "")!)
-        self.level = data
+    func doSomething() {
+        print(name)
+        print(Thread.isMainThread)
     }
 }
+
+let vm = ViewModel(name: "dudu")
 ```
 
-level 프로퍼티를 무조건 MainThread에서 업데이트 시키고 싶다만?
+name 프로퍼티를 무조건 MainThread에서 업데이트 시키고 싶다만?
 
-**방법1**
-매서드에 @MainActor 붙이기
+
+- 매서드에 @MainActor 붙이기
 
 ```swift
 @MainActor
-func fetchLevel() async {
-    let (data, _) = try! await URLSession.shared.data(from: URL(string: "")!)
-    self.level = data
+func doSomething() {
+	print(name)
+	print(Thread.isMainThread)
 }
 ```
 
-**방법2**
-Task에 @MainActor 붙이기
+- print(name) 부분을 Task로 격리시키기
 
 ```swift!
-init() {
-    Task { @MainActor in
-        await self.fetchLevel()
-    }
+Task { @MainActor in
+	print(name)
 }
 ```
 
-**방법3**
-class에 MainActor 붙이기
+- 클래스에 @MainActor 붙이기
 
 ```swift
 @MainActor
 class ViewModel {
 ```
 
-UI MainThread 오류를 컴파일 타임에 잡고 싶다면?
+- 프로퍼티에 @MainActor 붙이기
 
 ```swift!
-@MainActor
-@Published var level: Data!
+class ViewModel {
+    @MainActor var name: String
+    
+    init(name: String) {
+        self.name = name
+    }
+    
+    func doSomething() async {
+        await print(name)
+        print(Thread.isMainThread)
+    }
+}
 ```
 
 ## Atomicity (원자성)
