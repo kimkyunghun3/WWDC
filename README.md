@@ -31,6 +31,7 @@
 - [Use SwiftUI with UIKit](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Use_SwiftUI_with_UIKit.md)
 - [Eliminate data races using Swift Concurrency](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Eliminate_data_races_using_Swift-Concurrency.md)
 - [Visualize and optimize Swift concurrency](https://github.com/kimkyunghun3/WWDC/blob/main/2022/visualize_and_optimize_Swift_concurrency.md)
+- [Meet Swift Package plugin](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Meet_Swift_Package_plugins.md)
 
 <br/>
 
@@ -54,6 +55,8 @@
 - [Meet the UIKit button system](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet_the_UIKit_button_system.md)
 - [Customize and resize sheets in UIkit](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Customize_and_resize%20sheets_in_UIkit.md)
 - [Diagnose Power and Performance regressions in your app](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Diagnose%20Power%20and%20Performance%20regressions%20in%20your%20app.md)
+- [Meet Xcode Cloud](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet_Xcode_Cloud.md)
+- [Explore Xcode Cloud Workflows](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Explore%20Xcode%20Cloud%20Workflows.md)
 
 <br/>
 <br/>
@@ -72,6 +75,7 @@
 - [Stacks, Grids, and Outlines in SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Stacks%2C%20Grids%2C%20and%20Outlines%20in%20SwiftUI.md)
 - [Eleminate animation hitches with XCTest](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Eleminate_animation_hitches_with_XCTest.md)
 - [Why Is My App Getting Killed?](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Why%20Is%20My%20App%20Getting%20Killed%3F.md)
+- [Write tests to fail](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Write_Tests_To_Fail.md)
 
 <br/>
 <br/>
@@ -103,6 +107,7 @@
 - [Swift Generics (Expanded)](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Swift%20Generics%20(Expanded).md)
 - [A Tour of UICollectionView](https://github.com/kimkyunghun3/WWDC/blob/main/2018/A_Tour_of_UICollectionView.md)
 - [High Performance Auto Layout](https://github.com/kimkyunghun3/WWDC/blob/main/2018/High_Performance_Auto_Layout.md)
+- [Using Collections Effectively](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Using_Collections_Effectively.md)
 
 <br/>
 <br/>
