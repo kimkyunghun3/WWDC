@@ -29,6 +29,7 @@
 - Debug Swift debugging with LLDB
 - [Embrace Swift generics](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Embrace_Swift_Generics.md)
 - [Use SwiftUI with UIKit](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Use_SwiftUI_with_UIKit.md)
+- [Eliminate data races using Swift Concurrency](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Eliminate_data_races_using_Swift-Concurrency.md)
 - [Compose custom layouts with SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Compose_custom_layouts_with_SwiftUI.md)
 
 <br/>
