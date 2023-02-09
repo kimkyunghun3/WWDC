@@ -30,6 +30,7 @@
 - [Embrace Swift generics](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Embrace_Swift_Generics.md)
 - [Use SwiftUI with UIKit](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Use_SwiftUI_with_UIKit.md)
 - [Eliminate data races using Swift Concurrency](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Eliminate_data_races_using_Swift-Concurrency.md)
+- [Compose custom layouts with SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Compose_custom_layouts_with_SwiftUI.md)
 - [Visualize and optimize Swift concurrency](https://github.com/kimkyunghun3/WWDC/blob/main/2022/visualize_and_optimize_Swift_concurrency.md)
 - [Meet Swift Package plugin](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Meet_Swift_Package_plugins.md)
 
