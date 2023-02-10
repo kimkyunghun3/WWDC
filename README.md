@@ -33,6 +33,7 @@
 - [Compose custom layouts with SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Compose_custom_layouts_with_SwiftUI.md)
 - [Visualize and optimize Swift concurrency](https://github.com/kimkyunghun3/WWDC/blob/main/2022/visualize_and_optimize_Swift_concurrency.md)
 - [Meet Swift Package plugin](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Meet_Swift_Package_plugins.md)
+- [Meet Swift Regex](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Meet_Swift_Regex.md)
 
 <br/>
 
@@ -77,6 +78,8 @@
 - [Eleminate animation hitches with XCTest](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Eleminate_animation_hitches_with_XCTest.md)
 - [Why Is My App Getting Killed?](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Why%20Is%20My%20App%20Getting%20Killed%3F.md)
 - [Write tests to fail](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Write_Tests_To_Fail.md)
+- [App Essentials in SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2020/App%20Essentials%20in%20SwiftUI.md)
+- [Explore the new system architecture of Apple silicon Macs](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Explore%20the%20new%20system%20architecture%20of%20Apple%20silicon%20Macs.md)
 
 <br/>
 <br/>
