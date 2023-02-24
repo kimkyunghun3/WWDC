@@ -34,6 +34,7 @@
 - [Visualize and optimize Swift concurrency](https://github.com/kimkyunghun3/WWDC/blob/main/2022/visualize_and_optimize_Swift_concurrency.md)
 - [Meet Swift Package plugin](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Meet_Swift_Package_plugins.md)
 - [Meet Swift Regex](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Meet_Swift_Regex.md)
+- [Swift Regex: Beyond the basics](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Swift_Regex:_Beyond_the_basics.md)
 
 <br/>
 
@@ -80,6 +81,7 @@
 - [Write tests to fail](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Write_Tests_To_Fail.md)
 - [App Essentials in SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2020/App%20Essentials%20in%20SwiftUI.md)
 - [Explore the new system architecture of Apple silicon Macs](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Explore%20the%20new%20system%20architecture%20of%20Apple%20silicon%20Macs.md)
+- [What's new in SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Whta's%20new%20in%20SwiftUI.md)
 
 <br/>
 <br/>
@@ -97,6 +99,7 @@
 - Architecting Your App for Multiple Windows
 - [Building Custom Views in SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Building%20Custim%20Views%20in%20SwiftUI.md)
 - [Data Flow Through SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Data%20Flow%20Through%20SwiftUI.md)
+- [Great Developer Habits](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Great%20Developer%20Habits.md)
 
 
 <br/>
