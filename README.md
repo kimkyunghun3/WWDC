@@ -24,7 +24,7 @@
 ---------
 - What's new in Swift
 - What's new in SwiftUI
-- What's new in UIKit
+- [What's new in UIKit](https://github.com/kimkyunghun3/WWDC/blob/main/2022/WWDC%202022%20what’s%20new%20in%20UIKit.md)
 - What's new in Xcode
 - Debug Swift debugging with LLDB
 - [Embrace Swift generics](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Embrace_Swift_Generics.md)
@@ -115,6 +115,8 @@
 - [A Tour of UICollectionView](https://github.com/kimkyunghun3/WWDC/blob/main/2018/A_Tour_of_UICollectionView.md)
 - [High Performance Auto Layout](https://github.com/kimkyunghun3/WWDC/blob/main/2018/High_Performance_Auto_Layout.md)
 - [Using Collections Effectively](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Using_Collections_Effectively.md)
+- [Embracing Algorithms](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Embracing_Algorithms.md)
+- [Getting to Know Swift Package Manager](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Getting%20to%20Know%20Swift%20Package%20Manager.md)
 
 <br/>
 <br/>
