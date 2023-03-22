@@ -35,6 +35,7 @@
 - [Meet Swift Package plugin](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Meet_Swift_Package_plugins.md)
 - [Meet Swift Regex](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Meet_Swift_Regex.md)
 - [Swift Regex: Beyond the basics](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Swift_Regex:_Beyond_the_basics.md)
+- [Meet the Swift Algorithms and Collections packages](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet_the_Swift_Algorithms_and_Collections_packages.md)
 
 <br/>
 
@@ -82,6 +83,7 @@
 - [App Essentials in SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2020/App%20Essentials%20in%20SwiftUI.md)
 - [Explore the new system architecture of Apple silicon Macs](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Explore%20the%20new%20system%20architecture%20of%20Apple%20silicon%20Macs.md)
 - [What's new in SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Whta's%20new%20in%20SwiftUI.md)
+- [Boost Performance and security with modern networking](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Boost%20Performance%20and%20security%20with%20modern%20networking.md)
 
 <br/>
 <br/>
@@ -117,6 +119,7 @@
 - [Using Collections Effectively](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Using_Collections_Effectively.md)
 - [Embracing Algorithms](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Embracing_Algorithms.md)
 - [Getting to Know Swift Package Manager](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Getting%20to%20Know%20Swift%20Package%20Manager.md)
+- [Building Faster in Xcode](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Building%20Faster%20in%20Xcode.md)
 
 <br/>
 <br/>
