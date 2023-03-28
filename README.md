@@ -33,6 +33,7 @@
 - [Compose custom layouts with SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Compose_custom_layouts_with_SwiftUI.md)
 - [Visualize and optimize Swift concurrency](https://github.com/kimkyunghun3/WWDC/blob/main/2022/visualize_and_optimize_Swift_concurrency.md)
 - [Meet Swift Package plugin](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Meet_Swift_Package_plugins.md)
+- [Power Down: Improve battery consumption](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Power_down_Improve_battery_consumption.md)
 
 <br/>
 
