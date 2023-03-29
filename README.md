@@ -33,6 +33,7 @@
 - [Compose custom layouts with SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Compose_custom_layouts_with_SwiftUI.md)
 - [Visualize and optimize Swift concurrency](https://github.com/kimkyunghun3/WWDC/blob/main/2022/visualize_and_optimize_Swift_concurrency.md)
 - [Meet Swift Package plugin](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Meet_Swift_Package_plugins.md)
+- [Power Down: Improve battery consumption](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Power_down_Improve_battery_consumption.md)
 - [Meet Swift Regex](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Meet_Swift_Regex.md)
 - [Swift Regex: Beyond the basics](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Swift_Regex:_Beyond_the_basics.md)
 - [Meet the Swift Algorithms and Collections packages](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet_the_Swift_Algorithms_and_Collections_packages.md)
