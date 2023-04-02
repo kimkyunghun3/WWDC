@@ -37,6 +37,7 @@
 - [Meet Swift Regex](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Meet_Swift_Regex.md)
 - [Swift Regex: Beyond the basics](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Swift_Regex:_Beyond_the_basics.md)
 - [Meet the Swift Algorithms and Collections packages](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet_the_Swift_Algorithms_and_Collections_packages.md)
+- [Power down: Improve battery consumption](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Power_down_Improve_battery_consumption.md)
 
 <br/>
 
@@ -103,6 +104,8 @@
 - [Building Custom Views in SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Building%20Custim%20Views%20in%20SwiftUI.md)
 - [Data Flow Through SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Data%20Flow%20Through%20SwiftUI.md)
 - [Great Developer Habits](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Great%20Developer%20Habits.md)
+- [Implementing Dark Mode on iOS](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Implementing_Dark_Mode_on_iOS.md)
+- [Optimizing App Launch](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Optimizing%20App%20Launch.md)
 
 
 <br/>
