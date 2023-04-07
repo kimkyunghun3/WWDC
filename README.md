@@ -39,6 +39,7 @@
 - [Meet the Swift Algorithms and Collections packages](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet_the_Swift_Algorithms_and_Collections_packages.md)
 - [Hello Swift Charts](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Hello_Swift_Charts.md)
 - [Power down: Improve battery consumption](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Power_down_Improve_battery_consumption.md)
+- [What's new in privacy](https://github.com/kimkyunghun3/WWDC/blob/main/2022/What's%20new%20in%20privacy.md)
 
 <br/>
 
@@ -64,6 +65,7 @@
 - [Diagnose Power and Performance regressions in your app](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Diagnose%20Power%20and%20Performance%20regressions%20in%20your%20app.md)
 - [Meet Xcode Cloud](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet_Xcode_Cloud.md)
 - [Explore Xcode Cloud Workflows](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Explore%20Xcode%20Cloud%20Workflows.md)
+- [Understand and eliminate hangs from your app](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Understand%20and%20eliminate%20hangs%20from%20your%20app.md)
 
 <br/>
 <br/>
@@ -107,6 +109,7 @@
 - [Great Developer Habits](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Great%20Developer%20Habits.md)
 - [Implementing Dark Mode on iOS](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Implementing_Dark_Mode_on_iOS.md)
 - [Optimizing App Launch](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Optimizing%20App%20Launch.md)
+- [Introducing Core Haptics](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Introducing_Core_Haptics.md)
 
 
 <br/>
