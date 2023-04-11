@@ -39,6 +39,7 @@
 - [Meet the Swift Algorithms and Collections packages](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet_the_Swift_Algorithms_and_Collections_packages.md)
 - [Hello Swift Charts](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Hello_Swift_Charts.md)
 - [Power down: Improve battery consumption](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Power_down_Improve_battery_consumption.md)
+- [Get_to_know_Developer_Mode](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Get_to_know_Developer_Mode.md)
 - [What's new in privacy](https://github.com/kimkyunghun3/WWDC/blob/main/2022/What's%20new%20in%20privacy.md)
 
 <br/>
