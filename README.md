@@ -16,6 +16,14 @@
   
 </p>
 
+<br/>
+
+# WWDC2022
+---------
+- [Implement Apple Pay and order management](https://github.com/kimkyunghun3/WWDC/blob/main/2023/Implement%20Apple%20Pay%20and%20order%20management.md)
+
+<br/>
+
 
 <br/>
 
@@ -41,6 +49,8 @@
 - [Power down: Improve battery consumption](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Power_down_Improve_battery_consumption.md)
 - [Get_to_know_Developer_Mode](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Get_to_know_Developer_Mode.md)
 - [What's new in privacy](https://github.com/kimkyunghun3/WWDC/blob/main/2022/What's%20new%20in%20privacy.md)
+- [What's new in the Photos picker](https://github.com/kimkyunghun3/WWDC/blob/main/2022/What's_new_in_Photos_picker.md)
+- [Get to know Developer Mode](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Get_to_know_Developer_Mode.md)
 
 <br/>
 
@@ -67,6 +77,7 @@
 - [Meet Xcode Cloud](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Meet_Xcode_Cloud.md)
 - [Explore Xcode Cloud Workflows](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Explore%20Xcode%20Cloud%20Workflows.md)
 - [Understand and eliminate hangs from your app](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Understand%20and%20eliminate%20hangs%20from%20your%20app.md)
+- [Reduce network delays for your app](https://github.com/kimkyunghun3/WWDC/blob/main/2021/Reduce%20network%20delays%20for%20your%20app.md)
 
 <br/>
 <br/>
