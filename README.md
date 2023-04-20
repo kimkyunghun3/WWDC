@@ -18,7 +18,7 @@
 
 <br/>
 
-# WWDC2022
+# WWDC2023
 ---------
 - [Implement Apple Pay and order management](https://github.com/kimkyunghun3/WWDC/blob/main/2023/Implement%20Apple%20Pay%20and%20order%20management.md)
 
@@ -51,6 +51,7 @@
 - [What's new in privacy](https://github.com/kimkyunghun3/WWDC/blob/main/2022/What's%20new%20in%20privacy.md)
 - [What's new in the Photos picker](https://github.com/kimkyunghun3/WWDC/blob/main/2022/What's_new_in_Photos_picker.md)
 - [Get to know Developer Mode](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Get_to_know_Developer_Mode.md)
+- [Build global apps: Localization by example](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Build%20global%20apps_Localization%20by%20example.md)
 
 <br/>
 
@@ -101,6 +102,7 @@
 - [Explore the new system architecture of Apple silicon Macs](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Explore%20the%20new%20system%20architecture%20of%20Apple%20silicon%20Macs.md)
 - [What's new in SwiftUI](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Whta's%20new%20in%20SwiftUI.md)
 - [Boost Performance and security with modern networking](https://github.com/kimkyunghun3/WWDC/blob/main/2020/Boost%20Performance%20and%20security%20with%20modern%20networking.md)
+- [The Push Notifications primer](https://github.com/kimkyunghun3/WWDC/blob/main/2020/The%20Push%20Notifications%20primer.md)
 
 <br/>
 <br/>
@@ -140,6 +142,7 @@
 - [Embracing Algorithms](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Embracing_Algorithms.md)
 - [Getting to Know Swift Package Manager](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Getting%20to%20Know%20Swift%20Package%20Manager.md)
 - [Building Faster in Xcode](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Building%20Faster%20in%20Xcode.md)
+- [Image and Graphics Best Practices](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Image_and_Graphics_Best_Practices.md)
 
 <br/>
 <br/>
