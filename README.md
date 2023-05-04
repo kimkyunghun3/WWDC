@@ -52,6 +52,7 @@
 - [What's new in the Photos picker](https://github.com/kimkyunghun3/WWDC/blob/main/2022/What's_new_in_Photos_picker.md)
 - [Get to know Developer Mode](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Get_to_know_Developer_Mode.md)
 - [Build global apps: Localization by example](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Build%20global%20apps_Localization%20by%20example.md)
+- [Enhance your Sign in with Apple experience](https://github.com/kimkyunghun3/WWDC/blob/main/2022/Enhance%20your%20Sign%20in%20with%20Apple%20experience.md)
 
 <br/>
 
@@ -124,6 +125,7 @@
 - [Implementing Dark Mode on iOS](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Implementing_Dark_Mode_on_iOS.md)
 - [Optimizing App Launch](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Optimizing%20App%20Launch.md)
 - [Introducing Core Haptics](https://github.com/kimkyunghun3/WWDC/blob/main/2019/Introducing_Core_Haptics.md)
+- [Cryptography And Your App](https://github.com/kimkyunghun3/WWDC/blob/main/2019/CryptographyAndYourApp.md)
 
 
 <br/>
@@ -143,6 +145,7 @@
 - [Getting to Know Swift Package Manager](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Getting%20to%20Know%20Swift%20Package%20Manager.md)
 - [Building Faster in Xcode](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Building%20Faster%20in%20Xcode.md)
 - [Image and Graphics Best Practices](https://github.com/kimkyunghun3/WWDC/blob/main/2018/Image_and_Graphics_Best_Practices.md)
+- [I Have This Idea For An App...](https://github.com/kimkyunghun3/WWDC/blob/main/2018/I_Have_This_Idea_For_An_App...md)
 
 <br/>
 <br/>
